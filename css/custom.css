@@ -1,0 +1,27 @@
+/*! Place your custom styles here */
+
+.nav-container {
+background-color:white;
+}
+
+.btn btn--sm type--uppercase a {
+color:black;
+}
+
+.menu-horizontal li {
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.menu-horizontal li a {
+color:blue;
+}
+
+.menu-horizontal li a:hover {
+	color:#004ca4;
+	border-bottom: 1px solid #004ca4;
+}
+
+.col-sm-6 img {
+text-align:center;
+}
