@@ -2837,6 +2837,9 @@ a {
 .bg--primary-1 {
   background: #31639c;
 }
+
+
+
 .bg--primary-1 p,
 .bg--primary-1 span,
 .bg--primary-1 ul,
@@ -8916,7 +8919,7 @@ footer.footer-7 {
     margin: 0;
   }
   footer .logo:not(:last-child) {
-    margin-right: 1.85714286em;
+    margin-right: 1.5em;
   }
   footer.footer-3 .logo + ul {
     position: relative;

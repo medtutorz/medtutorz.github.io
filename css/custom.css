@@ -25,3 +25,21 @@ color:blue;
 .col-sm-6 img {
 text-align:center;
 }
+
+.bg--primary-2 {
+  background: #ff9000;
+}
+
+.bg--primary-3 {
+  background: #26996f;
+}
+
+.btn--primary-2 {
+	background:#218647;
+	border:#218647;
+}
+
+.btn--primary-3 {
+	background:#ff9000;
+	border:#ff9000;
+}
