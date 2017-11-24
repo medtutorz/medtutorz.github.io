@@ -3446,8 +3446,8 @@ section.text-right > .container:last-child > .row:only-child > div[class*='col-'
 /**! 37. Spacing **/
 section,
 footer {
-  padding-top: 7.42857143em;
-  padding-bottom: 5em;
+  padding-top: 4em;
+  padding-bottom: 4em;
 }
 section.space--xxs,
 footer.space--xxs {
@@ -4552,7 +4552,7 @@ h2 + .btn,
 }
 /*! -- Stack Images -- */
 img:last-child {
-  margin-bottom: 0;
+  margin-bottom: 20;
 }
 img.flag {
   max-height: 1.85714286em;
@@ -8913,7 +8913,7 @@ footer.footer-7 {
 @media all and (min-width: 768px) {
   footer .list-inline + .btn {
     position: relative;
-    bottom: 4px;
+    bottom: 10px;
   }
   footer .logo {
     margin: 0;
