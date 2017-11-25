@@ -4761,6 +4761,9 @@ section.parallax .row .background-image-holder {
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: .5px;
+  padding: 0px 7px;
+  border: 1px solid transparent;
+  transition: 0.25s ease;
 }
 @media all and (min-width: 1024px) {
   .bar-1 .bar__module + .bar__module {
