@@ -3112,7 +3112,7 @@ form[action*='list-manage.com'] .small-meta {
   right: 0;
 }
 .switchable.switchable--switch div[class*='col-']:first-child {
-  float: right;
+/*   float: right; */
   right: 0;
   left: auto;
 }
@@ -3444,11 +3444,12 @@ section.text-right > .container:last-child > .row:only-child > div[class*='col-'
   float: right;
 }
 /**! 37. Spacing **/
-section,
-footer {
+section, footer {
   padding-top: 4em;
   padding-bottom: 4em;
 }
+
+
 section.space--xxs,
 footer.space--xxs {
   padding-top: 1.85714286em;
@@ -5926,7 +5927,7 @@ a.block:hover > .feature {
   }
 }
 .feature-8 {
-  padding: 2.78571429em 0 3.71428571em 0;
+  padding: 2.78571429em 0 1.5em 0;
 }
 .feature-8:not(.boxed) {
   margin-bottom: 0;
